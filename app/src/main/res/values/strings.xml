@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Average</string>
+    <string name="average_calculator">Average Calculator</string>
+    <string name="submit_number">Submit Number</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_number_and_click_below_button_continue_till_calculate_average_text_appear_on_button">Enter Number and click below button continue till Calculate average text appear on Button</string>
+</resources>
